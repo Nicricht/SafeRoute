@@ -3,12 +3,6 @@ venv/
 env/
 .env
 
-# Datos y datasets locales pesados (Kaggle)
-data/raw/
-data/processed/
-*.zip
-*.tar.gz
-
 # Modelos y pesos entrenados pesados
 models/*.h5
 models/*.keras
