@@ -1,0 +1,12 @@
+tensorflow>=2.12.0
+keras
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+opencv-python
+pillow
+gradio
+kaggle
+jupyter

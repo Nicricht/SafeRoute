@@ -1,0 +1,25 @@
+# Entorno virtual
+venv/
+env/
+.env
+
+# Datos y datasets locales pesados (Kaggle)
+data/raw/
+data/processed/
+*.zip
+*.tar.gz
+
+# Modelos y pesos entrenados pesados
+models/*.h5
+models/*.keras
+*.pt
+*.pth
+
+# Checkpoints y archivos de Python / Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
