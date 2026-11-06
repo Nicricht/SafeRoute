@@ -1,0 +1,16 @@
+                     precision    recall  f1-score   support
+
+         c0: Seguro     0.9923    0.5244    0.6862       492
+      c1: Texto Der     1.0000    0.2757    0.4323       486
+    c2: Llamada Der     0.9241    0.2885    0.4398       506
+      c3: Texto Izq     0.9794    0.9520    0.9655       500
+    c4: Llamada Izq     0.8282    0.9918    0.9026       486
+          c5: Radio     0.7555    0.9718    0.8501       496
+       c6: Bebiendo     0.8166    0.5476    0.6556       504
+ c7: Alcanzar atrás     0.9231    0.9000    0.9114       480
+c8: Pelo/Maquillaje     0.2493    0.8756    0.3881       418
+       c9: Copiloto     0.5605    0.3682    0.4444       478
+
+           accuracy                         0.6661      4846
+          macro avg     0.8029    0.6696    0.6676      4846
+       weighted avg     0.8121    0.6661    0.6719      4846
